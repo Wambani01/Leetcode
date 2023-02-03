@@ -2,7 +2,7 @@ class Solution(object):
     def longestCommonPrefix(self, strs):
         """
         :type strs: List[str]
-        :rtype: str
+        :rtype: prefix str
         """
         if not strs: return ""
         if len(strs) == 1: return strs[0]
