@@ -3,6 +3,7 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: int
+	:return: unique list len
         """
         if not nums:
             return 0
