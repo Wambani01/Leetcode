@@ -5,7 +5,7 @@ message=$2
 git add $file
 if [ $# -eq 1 ]
     then
-        git commit -m "Push Task"
+        git commit -m "Error: Commit Message Missing!"
 else
     git commit -m "$message"
 fi
