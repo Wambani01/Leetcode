@@ -4,7 +4,8 @@
 ```
 This repository documents Leetcode problems solved by ALX Buddies.
 
-NOTE: Some solutions are not optimal and could be improved. Trying alternative methods of solving these problems is highly encouraged.
+NOTE: Some solutions are not optimal and could be improved.
+Trying alternative methods of solving these problems is highly encouraged.
 ```
 ### [Problem 1](https://leetcode.com/problems/two-sum/) - Two Sum
 ### [Problem 2](https://leetcode.com/problems/add-two-numbers/) - Add Two Numbers
