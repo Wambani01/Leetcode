@@ -10,7 +10,7 @@ Trying alternative methods of solving these problems is highly encouraged.
 ### [Problem 1](https://leetcode.com/problems/two-sum/) - Two Sum
 ### [Problem 2](https://leetcode.com/problems/add-two-numbers/) - Add Two Numbers
 ### [Problem 9](https://leetcode.com/problems/palindrome-number/) - Palindrome Number
-### [Problem 14](https://leetcode.com/problems/palindrome-number/) - Merge Two Sorted Lists
+### [Problem 14](https://leetcode.com/problems/longest-common-prefix/) - Longest Common Prefix
 ### [Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/) - Merge Two Sorted Lists
 ### [Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Remove Duplicates from Sorted Array
 ### [Problem 27](https://leetcode.com/problems/remove-element/) - Remove Element
