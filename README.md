@@ -1,5 +1,5 @@
 ### LeetCode
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0NawC6a8WTCYlNWSLooVTw.png" alt="Leetcode" \img>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0NawC6a8WTCYlNWSLooVTw.png" alt="Leetcode">
 
 ```
 This repository documents Leetcode problems solved by ALX Buddies.
