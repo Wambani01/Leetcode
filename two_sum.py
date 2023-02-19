@@ -7,4 +7,3 @@ class Solution:
                 sum = nums[a] + nums[b]
                 if sum == target:
                     return [a, b] 
-                 
